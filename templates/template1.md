@@ -1,6 +1,6 @@
 ---
 id: 1704124666-OUGL
-aliases: ["Hello World"]
+aliases: ["Note Template"]
 tags: []
 ---
 

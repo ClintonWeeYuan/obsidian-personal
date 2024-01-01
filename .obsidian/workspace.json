@@ -11,8 +11,12 @@
             "id": "19343570ff9f2dc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/template1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/template1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/template1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/template1.md"
+              }
             }
           }
         ]
@@ -146,17 +154,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3055f2e01765fb67",
+  "active": "19343570ff9f2dc9",
   "lastOpenFiles": [
-    "1704124965-XMUO.md",
+    "1704132774-XXPF.md",
+    "1704132758-PPRE.md",
+    "Crazy time.md",
+    "1704132007-EUEL.md",
+    "1704131912-PXWS.md",
     "1704123544-NNBH.md",
+    "1704131837-LIVM.md",
+    "2. Areas/1704131769-SDIW.md",
+    "1. Projects/1704131769-SDIW.md",
+    "1704131769-SDIW.md",
+    "templates/template1.md",
+    "4. Archives",
+    "3. Resources",
+    "2. Areas",
+    "1. Projects",
+    "1704124965-XMUO.md",
     "1704126202-IKGH.md",
     "Untitled/Time to Die.md",
     "1704125735-ESQE.md",
     "170[[1704123544-NNBH.md",
     "1704126010-ZIYN.md",
     "1704125592-COQC.md",
-    "templates/template1.md",
     "1704124755-KYUC.md",
     "1704124666-OUGL.md",
     "templates/hello.md",
