@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "98c458761144f441",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c347816ba302073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19343570ff9f2dc9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4ffabd0641cb0cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1de3852865f6658f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3055f2e01765fb67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f1eab420ed63ff2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08ad833d56402a80",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "aab300f16e31cbea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a1045320a7c4a8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9342f2674369e884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaa59461772a9869",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ba5665e778660d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8339e2179c7ccef6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b938832f5f440b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3055f2e01765fb67",
+  "lastOpenFiles": [
+    "1704124965-XMUO.md",
+    "1704123544-NNBH.md",
+    "1704126202-IKGH.md",
+    "Untitled/Time to Die.md",
+    "1704125735-ESQE.md",
+    "170[[1704123544-NNBH.md",
+    "1704126010-ZIYN.md",
+    "1704125592-COQC.md",
+    "templates/template1.md",
+    "1704124755-KYUC.md",
+    "1704124666-OUGL.md",
+    "templates/hello.md",
+    "templates",
+    "Templates"
+  ]
+}
