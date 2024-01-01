@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/template1.md",
+                "file": "1704140720-readinglist.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/template1.md",
+                "file": "1704140720-readinglist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/template1.md",
+                "file": "1704140720-readinglist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/template1.md"
+                "file": "1704140720-readinglist.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "19343570ff9f2dc9",
   "lastOpenFiles": [
+    "templates/template1.md",
     "1704132774-XXPF.md",
     "1704132758-PPRE.md",
     "Crazy time.md",
@@ -166,7 +167,6 @@
     "2. Areas/1704131769-SDIW.md",
     "1. Projects/1704131769-SDIW.md",
     "1704131769-SDIW.md",
-    "templates/template1.md",
     "4. Archives",
     "3. Resources",
     "2. Areas",
