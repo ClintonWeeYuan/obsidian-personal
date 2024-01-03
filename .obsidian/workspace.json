@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1704140720-readinglist.md",
+                "file": "1704313558-the-art-of-explanation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1704140720-readinglist.md",
+                "file": "1704313558-the-art-of-explanation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1704140720-readinglist.md",
+                "file": "1704313558-the-art-of-explanation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1704140720-readinglist.md"
+                "file": "1704313558-the-art-of-explanation.md"
               }
             }
           }
@@ -156,6 +156,14 @@
   },
   "active": "19343570ff9f2dc9",
   "lastOpenFiles": [
+    "1704313558-the-art-of-explanation.md",
+    "templates/1704313323-book-template.md",
+    "1704313323-book-template.md",
+    "templates/BookTemplate.md",
+    "tBookTemplate.md",
+    "templates/NoteTemplate.md",
+    "1704140720-readinglist.md",
+    "1704312905-disicipline-and-resilience.md",
     "templates/template1.md",
     "1704132774-XXPF.md",
     "1704132758-PPRE.md",
@@ -178,9 +186,6 @@
     "170[[1704123544-NNBH.md",
     "1704126010-ZIYN.md",
     "1704125592-COQC.md",
-    "1704124755-KYUC.md",
-    "1704124666-OUGL.md",
-    "templates/hello.md",
     "templates",
     "Templates"
   ]

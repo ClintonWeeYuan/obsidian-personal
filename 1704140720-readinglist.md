@@ -1,7 +1,7 @@
 ---
 id: 1704140720-readinglist
 aliases:
-  - ReadingList
+  - Reading List
 tags: [books]
 ---
 
@@ -12,4 +12,3 @@ tags: [books]
 3. Chip War by Chris Miller
 4. The Fund by Rob Copeland
 5. Uncommon Sense Teaching
-
