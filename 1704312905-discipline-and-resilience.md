@@ -1,11 +1,11 @@
 ---
-id: 1704312905-disicipline-and-resilience
+id: 1704312905-discipline-and-resilience
 aliases:
-  - Disicipline And Resilience
+  - Discipline And Resilience
 tags: [podcast, self-help]
 ---
 
-# Disicipline And Resilience
+# Discipline And Resilience
 
 There are 5 ways to succeed:
 
@@ -25,14 +25,10 @@ There are 5 ways to succeed:
 
 There are two mindsets: (i) The Mastery Mindset and (ii) The Incentive Mindset.
 
-Most people have (ii). They do things with the expectation to get something in return (either money, fame or power).
-This prevents us from performing at peak potential, because it means failure will mean we don't receive those incentives.
-We therefore try to avoid failure, when instead failure is intertwined with success.
+Most people have (ii). They do things with the expectation to get something in return (either money, fame or power). This prevents us from performing at peak potential, because it means failure will mean we don't receive those incentives. We therefore try to avoid failure, when instead failure is intertwined with success.
 
-We need to adopt (i), where we focus on the intrinsic joy of getting better at our craft. This allows us to take risks, to fail UPWARDS.
-Only through failure can we reach success.
+We need to adopt (i), where we focus on the intrinsic joy of getting better at our craft. This allows us to take risks, to fail UPWARDS. Only through failure can we reach success.
 
-Kids generally stop enjoying school when they reach 3rd grade, which is when they start getting graded. That is when they shift
-from a Mastery Mindset to a Incentive Mindset (getting a better grade).
+Kids generally stop enjoying school when they reach 3rd grade, which is when they start getting graded. That is when they shift from a Mastery Mindset to a Incentive Mindset (getting a better grade).
 
 > For myself, I find that I get caught up with what others think of me. I try to take the path which causes others to admire me, and shy away from things that might cause them to look down on me.
