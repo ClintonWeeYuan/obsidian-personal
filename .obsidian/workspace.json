@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "834a3cfdf3e3d09a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1708383520-digital-empire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1708383520-digital-empire.md",
+                "file": "1704584240-the-fund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1708383520-digital-empire.md",
+                "file": "1704584240-the-fund.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1708383520-digital-empire.md"
+                "file": "1704584240-the-fund.md"
               }
             }
           }
@@ -167,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "834a3cfdf3e3d09a",
+  "active": "19343570ff9f2dc9",
   "lastOpenFiles": [
+    "1708383520-digital-empire.md",
     "1704584240-the-fund.md",
     "templates/1704313323-book-template.md",
-    "1708383520-digital-empire.md",
     "1708383482-KJLB.md",
     "templates/NoteTemplate.md",
     "1704313323-desiging-your-life.md",

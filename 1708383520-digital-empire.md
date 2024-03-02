@@ -42,6 +42,8 @@ China's main goals are:
 
 They keep a firm grip on the country's tech sector in order to achieve these goals. 
 - State surveillance, censorship, propaganda, and other tools used to control the population, are all enhanced via digitalization.
+	- See propaganda on COVID (portray China's policies as effective, while downplaying role in spreading the virus)
+	- See surveillance on Uighur community -> most surveiled community in the world.
 - The Great Firewall prevents locals from accessing banned sites (e.g. Google and Twitter) which might contain views that contradict the CCP's values.
 - Foreign companies are forced to abide by strict rules in order to be given access to the huge Chinese market. E.g. IBM was forced to share trademark secrets with local competitors in order to open offices in China. Google has a separate site just for China.
 
