@@ -48,3 +48,12 @@ They keep a firm grip on the country's tech sector in order to achieve these goa
 - Foreign companies are forced to abide by strict rules in order to be given access to the huge Chinese market. E.g. IBM was forced to share trademark secrets with local competitors in order to open offices in China. Google has a separate site just for China.
 
 > Note on competition: Even though protectionism usually hinders innovation, there is enough domestic competition such that local companies are still forced to innovate, despite there being little foreign competition.
+
+### Chapter 3: Rights Centric Model (Europe)
+Europe views technology as a tool for improving people's lives. State therefore has to play a crucial role in regulating the dissemination of such technologies
+
+Examples:
+1. Right to Be Forgotten
+   - ECJ granted claimant's request for Google to delist stories about him from search engine
+2. AI 
+3. 

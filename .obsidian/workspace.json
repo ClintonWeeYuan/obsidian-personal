@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "127357681af20f1c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "4d2b59485014f358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1708383520-digital-empire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "digital empire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1704584240-the-fund.md",
+                "file": "1708383520-digital-empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1704584240-the-fund.md",
+                "file": "1708383520-digital-empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1704584240-the-fund.md"
+                "file": "1708383520-digital-empire.md"
               }
             }
           }
@@ -154,23 +178,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19343570ff9f2dc9",
+  "active": "1f1eab420ed63ff2",
   "lastOpenFiles": [
-    "1708383520-digital-empire.md",
     "1704584240-the-fund.md",
+    "1708383520-digital-empire.md",
+    "1704313558-the-art-of-explanation.md",
+    "templates/NoteTemplate.md",
+    "1704140720-readinglist.md",
     "templates/1704313323-book-template.md",
     "1708383482-KJLB.md",
-    "templates/NoteTemplate.md",
     "1704313323-desiging-your-life.md",
     "1704312905-discipline-and-resilience.md",
-    "1704313558-the-art-of-explanation.md",
     "Untitled 1.md",
     "Untitled.md",
     "1704312905-disicipline-and-resilience.md",
     "1704313323-book-template.md",
     "templates/BookTemplate.md",
     "tBookTemplate.md",
-    "1704140720-readinglist.md",
     "templates/template1.md",
     "1704132774-XXPF.md",
     "1704132758-PPRE.md",
