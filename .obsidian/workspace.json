@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3c347816ba302073",
+        "id": "115a0dcdeda228ae",
         "type": "tabs",
         "children": [
           {
-            "id": "19343570ff9f2dc9",
+            "id": "f82231de33d75ac3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1704584240-the-fund.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "127357681af20f1c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "4d2b59485014f358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1708383520-digital-empire.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1708383520-digital-empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1708383520-digital-empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1708383520-digital-empire.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -178,16 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f1eab420ed63ff2",
+  "active": "f82231de33d75ac3",
   "lastOpenFiles": [
     "1704584240-the-fund.md",
-    "1708383520-digital-empire.md",
+    "Notes/Knowledge/Books/Digital Empire.md",
     "1704313558-the-art-of-explanation.md",
-    "templates/NoteTemplate.md",
-    "1704140720-readinglist.md",
-    "templates/1704313323-book-template.md",
-    "1708383482-KJLB.md",
     "1704313323-desiging-your-life.md",
+    "Notes/Recipes/Pesto Chicken.md",
+    "Notes/Knowledge/Books",
+    "Notes/People/Adam and Angela.md",
+    "Notes/Projects",
+    "Notes/Knowledge",
+    "Notes/Recipes",
+    "Notes/People/Untitled",
+    "Notes/People",
+    "Notes",
+    "Templates/NoteTemplate.md",
+    "1704140720-readinglist.md",
+    "Templates/1704313323-book-template.md",
+    "1708383482-KJLB.md",
     "1704312905-discipline-and-resilience.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -203,14 +180,8 @@
     "1704131912-PXWS.md",
     "1704123544-NNBH.md",
     "1704131837-LIVM.md",
-    "2. Areas/1704131769-SDIW.md",
-    "1. Projects/1704131769-SDIW.md",
-    "1704131769-SDIW.md",
     "4. Archives",
     "3. Resources",
-    "2. Areas",
-    "1. Projects",
-    "templates",
-    "Templates"
+    "2. Areas"
   ]
 }

@@ -11,7 +11,7 @@ tags: []
 
 ## 5 Lessons
 
-1.
+1. China's state centric model has proven that regulation doesn't necessarily hinder innovation, and that the internet can be used to undermine democracy.
 2.
 3.
 4.
