@@ -1,10 +1,6 @@
 ---
-id: 1704124666-OUGL
-aliases: ["Note Template"]
-tags: []
+id: 
+aliases:
+  - Note Template
+tags:
 ---
-j
-[ItsMe]
-
-
-/Hello There

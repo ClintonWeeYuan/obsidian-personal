@@ -11,8 +11,12 @@
             "id": "f82231de33d75ac3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1704140720-readinglist.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1704140720-readinglist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1704140720-readinglist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1704140720-readinglist.md"
+              }
             }
           }
         ]
@@ -148,8 +156,18 @@
   },
   "active": "f82231de33d75ac3",
   "lastOpenFiles": [
-    "1704584240-the-fund.md",
     "Notes/Knowledge/Books/Digital Empire.md",
+    "Templates/BookTemplate.md",
+    "Notes/Knowledge/Books/SampleBook.md",
+    "Books/SampleBook.md",
+    "Books",
+    "Templates/NoteTemplate.md",
+    "Templates/1704313323-book-template.md",
+    "Notes/Knowledge/Podcasts/Axact.md",
+    "!!ReadingList.md",
+    "Notes/Knowledge/Podcasts",
+    "!!DailyNote.md",
+    "1704584240-the-fund.md",
     "1704313558-the-art-of-explanation.md",
     "1704313323-desiging-your-life.md",
     "Notes/Recipes/Pesto Chicken.md",
@@ -161,9 +179,7 @@
     "Notes/People/Untitled",
     "Notes/People",
     "Notes",
-    "Templates/NoteTemplate.md",
     "1704140720-readinglist.md",
-    "Templates/1704313323-book-template.md",
     "1708383482-KJLB.md",
     "1704312905-discipline-and-resilience.md",
     "Untitled 1.md",
@@ -175,13 +191,6 @@
     "templates/template1.md",
     "1704132774-XXPF.md",
     "1704132758-PPRE.md",
-    "Crazy time.md",
-    "1704132007-EUEL.md",
-    "1704131912-PXWS.md",
-    "1704123544-NNBH.md",
-    "1704131837-LIVM.md",
-    "4. Archives",
-    "3. Resources",
-    "2. Areas"
+    "4. Archives"
   ]
 }

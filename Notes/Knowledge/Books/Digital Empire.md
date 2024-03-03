@@ -2,7 +2,10 @@
 id: 1708383520-digital-empire
 aliases:
   - digital empire
-tags: []
+tags:
+  - book
+  - tech
+  - law
 ---
 
 # Digital Empire
