@@ -58,5 +58,19 @@ Europe views technology as a tool for improving people's lives. State therefore 
 Examples:
 1. Right to Be Forgotten
    - ECJ granted claimant's request for Google to delist stories about him from search engine
-2. AI 
-3. 
+2. Democracy and Freedom of Speech
+   - Disinformation increases polarization and undermines democratic processes by tampering with the electorates' world view.
+   - However, banning disinformation would undermine freedom of speech, which itself is central to a democracy.
+   - Digital Services Act 2022 requires large platforms (e.g. Google and Facebook) to employ effective content moderation strategies aimed at reducing the spread of disinformation (e.g. by demonetizing disinformation, providing alternative resources, fact-checking posts)
+3. Redistribution of Wealth
+	1. Antitrust Law
+		- Google Shopping case -> ECJ found Google to have abused its market position by prioritizing its own goods/services on its search engine
+		- Digital Markets Act 2022 -> targets digital gatekeepers (i.e. platforms with large market share)
+	2. Digital Taxes -> digital platforms contribute their fair share to society
+	3. Employment protections for digital workers -> European courts have recognised platform workers as employees, and therefore deserve the corresponding benefits/protections
+
+Drive for Technological Autonomy
+- In 1980's, 40% of semiconductors were produced in Europe. Now its only 3%. Today, 80% of chips are manufactured in Asia.
+- Lithium (an important component in batteries) are mostly found in Asia.
+- Europe aims to increase their market share of these vital digital ingredients by 2030.
+- Europe also aims to decrease their reliance on American tech giants like Google and Facebook.
