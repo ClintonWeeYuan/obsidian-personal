@@ -37,3 +37,14 @@ tags:
 	3. Think about what the root of the problem is
 - Go for the Best Actionable Outcome, instead of the Best Theoretical Outcome
 	- After narrowing down choices, we'll see that it becomes easier to make a decision
+
+
+### Chapter 3: Grit
+Grit is important in progressing our career. It consists of 4 things:
+1. Interest in a particular subject
+2. Thoughtful practice, which leads to improvement
+3. A feeling of purpose
+4. Being hopeful that things will get better
+
+Beyond a certain point, money actually corrupts our interest and natural curiosity for things. Instead, follow what interests and excites you. Solve unique and complex problems.
+
