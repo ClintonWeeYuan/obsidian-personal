@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Knowledge/Books/Digital Empire.md",
+                "file": "Notes/Knowledge/Books/Designing your Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Knowledge/Books/Digital Empire.md",
+                "file": "Notes/Knowledge/Books/Designing your Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Knowledge/Books/Digital Empire.md",
+                "file": "Notes/Knowledge/Books/Designing your Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Knowledge/Books/Digital Empire.md"
+                "file": "Notes/Knowledge/Books/Designing your Life.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "f82231de33d75ac3",
   "lastOpenFiles": [
-    "1704140720-readinglist.md",
     "Notes/Knowledge/Books/Digital Empire.md",
+    "Notes/Knowledge/Books/Designing your Life.md",
+    "1704140720-readinglist.md",
     "Templates/BookTemplate.md",
     "Notes/Knowledge/Books/SampleBook.md",
     "Books/SampleBook.md",
@@ -170,7 +171,6 @@
     "!!DailyNote.md",
     "1704584240-the-fund.md",
     "1704313558-the-art-of-explanation.md",
-    "1704313323-desiging-your-life.md",
     "Notes/Recipes/Pesto Chicken.md",
     "Notes/Knowledge/Books",
     "Notes/People/Adam and Angela.md",
