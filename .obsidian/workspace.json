@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Knowledge/Books/Designing your Life.md",
+                "file": "Notes/People/Nikolaj.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "digital empire",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Knowledge/Books/Designing your Life.md",
+                "file": "Notes/People/Nikolaj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Knowledge/Books/Designing your Life.md",
+                "file": "Notes/People/Nikolaj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Knowledge/Books/Designing your Life.md"
+                "file": "Notes/People/Nikolaj.md"
               }
             }
           }
@@ -156,8 +156,13 @@
   },
   "active": "f82231de33d75ac3",
   "lastOpenFiles": [
-    "Notes/Knowledge/Books/Digital Empire.md",
+    "Notes/People/Shivant.md",
+    "Notes/People/Nikolaj.md",
+    "Notes/People/Mavis.md",
+    "Untitled.md",
+    "Notes/People/Adam and Angela.md",
     "Notes/Knowledge/Books/Designing your Life.md",
+    "Notes/Knowledge/Books/Digital Empire.md",
     "1704140720-readinglist.md",
     "Templates/BookTemplate.md",
     "Notes/Knowledge/Books/SampleBook.md",
@@ -173,7 +178,6 @@
     "1704313558-the-art-of-explanation.md",
     "Notes/Recipes/Pesto Chicken.md",
     "Notes/Knowledge/Books",
-    "Notes/People/Adam and Angela.md",
     "Notes/Projects",
     "Notes/Knowledge",
     "Notes/Recipes",
@@ -183,14 +187,10 @@
     "1708383482-KJLB.md",
     "1704312905-discipline-and-resilience.md",
     "Untitled 1.md",
-    "Untitled.md",
     "1704312905-disicipline-and-resilience.md",
     "1704313323-book-template.md",
     "templates/BookTemplate.md",
     "tBookTemplate.md",
-    "templates/template1.md",
-    "1704132774-XXPF.md",
-    "1704132758-PPRE.md",
     "4. Archives"
   ]
 }
