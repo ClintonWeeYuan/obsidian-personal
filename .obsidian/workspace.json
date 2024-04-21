@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e9c42a4f4ad00f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/People/Vasille.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/People/Nikolaj.md",
+                "file": "Notes/People/Vasille.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/People/Nikolaj.md",
+                "file": "Notes/People/Vasille.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/People/Nikolaj.md"
+                "file": "Notes/People/Vasille.md"
               }
             }
           }
@@ -154,18 +167,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f82231de33d75ac3",
+  "active": "e9c42a4f4ad00f64",
   "lastOpenFiles": [
-    "Notes/People/Shivant.md",
-    "Notes/People/Nikolaj.md",
+    "Notes/People/Chiara.md",
+    "Notes/People/Vasille.md",
     "Notes/People/Mavis.md",
-    "Untitled.md",
     "Notes/People/Adam and Angela.md",
+    "Notes/People/Nikolaj.md",
+    "Notes/People/Shivant.md",
+    "Notes/Knowledge/Books/SampleBook.md",
+    "Untitled.md",
     "Notes/Knowledge/Books/Designing your Life.md",
     "Notes/Knowledge/Books/Digital Empire.md",
     "1704140720-readinglist.md",
     "Templates/BookTemplate.md",
-    "Notes/Knowledge/Books/SampleBook.md",
     "Books/SampleBook.md",
     "Books",
     "Templates/NoteTemplate.md",
@@ -189,8 +204,6 @@
     "Untitled 1.md",
     "1704312905-disicipline-and-resilience.md",
     "1704313323-book-template.md",
-    "templates/BookTemplate.md",
-    "tBookTemplate.md",
     "4. Archives"
   ]
 }
