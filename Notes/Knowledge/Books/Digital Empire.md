@@ -96,4 +96,25 @@ Chinese companies operating in US also face the same problem
 - Trump banned Tiktok, signing concerns that user data was being shared with the Chinese government. The order gave Tiktok some time to find a buyer for the US subsidiary, but Chinese regulators responded by making it illegal for Tiktok to sell their technology to foreign companies. Essentially leaving Tiktok between a rock and a hard place.
 
 
-### Chapter 5: 
+### Chapter 5:  Horizontal Battle (China vs US)
+
+The battle over digital supremacy between China and the US has been heating up. US claims their actions are required to curtail a belligerent China who u
+
+
+US actions against China
+1. Limiting export of US technology to China
+  - Bureau of Industry and Security (BIS) enforces rules around the transfer of technologies which are critical national security (AI, quantum computing).
+  - BIS also uses the Entity List to block sale of computing resources (e.g. semiconductors) to a select number of Chinese companies.
+2. Limiting inflows of Chinese technology and investment into the US
+   - Huawei was banned from installing its 5G network infrastructure in the US, due to concerns about the CCP having access to the data flowing through said network.
+   - Huawei is very close to the CCP, receiving huge government subsidies that allow it to underbid its competitors by over 30%. Some commentators say that the price they charge does not even cover their production cost.
+   - US also attempting to convince other countries to do the same, but third world countries who benefit most from this affordable 5G technology are less concerned (e.g. Malaysia)
+3. Decoupling of human capital
+  - US has banned certain prominent Chinese researchers/scientists, due to a concern that they will transfer their knowledge back to the CCP
+  - However, this might be counterproductive as Chinese immigrants make up a decent portion of the intellectual power of the US. 30% of top AI researchers come from China, and most stay in the US after finishing their studies.
+4. Sanctions in response to cybersecurity concerns
+  - US imposed sanctions on China, accusing them of committing certain high profile cybercrimes against US companies (e.g. Microsoft)
+
+
+Chinese actions against the US
+1. 
