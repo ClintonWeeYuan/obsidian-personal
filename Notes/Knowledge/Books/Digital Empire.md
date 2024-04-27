@@ -88,3 +88,12 @@ Friction between Member States
 Companies that operate across different digital regimes have the arduous task of accommodating the conflicting/incompatible regulations in these regimes.
 - Apple compromised on its free speech and intellectual property rules to be given access to Chinese markets.
 - Google, in 2006, created a search engine that was allowed in China (due to it succumbing to censorship rules imposed by the CCP), but later found this untenable. Project Dragonfly (a later project) which was supposed to be a search engine compatible in China was also terminated in 2019 due to backlash from employees/customers of Google.
+
+
+Chinese companies operating in US also face the same problem
+- In order to be listed in the NYSE, Chinese companies (Didi, TikTok) have to agree to share data with American regulators, but are often required by law to keep such information confidential by Chinese rules
+- When Didi got listed in the US without waiting for Chinese approval (cybersecurity reviews), it was fined and asked to delist from NYSE. Its shares plummeted overnight.
+- Trump banned Tiktok, signing concerns that user data was being shared with the Chinese government. The order gave Tiktok some time to find a buyer for the US subsidiary, but Chinese regulators responded by making it illegal for Tiktok to sell their technology to foreign companies. Essentially leaving Tiktok between a rock and a hard place.
+
+
+### Chapter 5: 
