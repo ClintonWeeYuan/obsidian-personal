@@ -74,3 +74,17 @@ Drive for Technological Autonomy
 - Lithium (an important component in batteries) are mostly found in Asia.
 - Europe aims to increase their market share of these vital digital ingredients by 2030.
 - Europe also aims to decrease their reliance on American tech giants like Google and Facebook.
+
+
+Friction between Member States
+- Despite the EU's strict stance on tech regulation, enforcement and implementation of those rules differ across member state lines.
+- Member states have different opinions as to the right balance between competing rights/interests. 
+	- E.g. France is more lenient when it comes to data privacy, and allows security agencies to override this right in the name of "national security". This could be due to recent history, where France suffered multiple terrorist attacks.
+- Despite this friction, the author argues that this ultimately results in a more well rounded EU rights regime, as member states have to make compromises on their policy objectives, in order to accommodate differing views.
+	- I don't necessarily agree. It seems to water down EU regulation, as different states will creatively interpret (or downright ignore) certain rules. And if a rule is made that accommodates everyone's opinion, it is likely to be a rule that doesn't do much.
+
+### Chapter 4: Vertical Battles 
+
+Companies that operate across different digital regimes have the arduous task of accommodating the conflicting/incompatible regulations in these regimes.
+- Apple compromised on its free speech and intellectual property rules to be given access to Chinese markets.
+- Google, in 2006, created a search engine that was allowed in China (due to it succumbing to censorship rules imposed by the CCP), but later found this untenable. Project Dragonfly (a later project) which was supposed to be a search engine compatible in China was also terminated in 2019 due to backlash from employees/customers of Google.
