@@ -115,6 +115,36 @@ US actions against China
 4. Sanctions in response to cybersecurity concerns
   - US imposed sanctions on China, accusing them of committing certain high profile cybercrimes against US companies (e.g. Microsoft)
 
+### Chapter 7: The Waning Global Influence of American Techno-Libertarianism
 
-Chinese actions against the US
-1. 
+Big Tech companies in the US reflect the "Californian ideology" and the American techno-libertarian instincts, exporting within their products and services the values of tech US market-driven regulatory model.
+- E.g. US requested Twitter to delay its scheduled network maintenance during the 2009 Iran protests surrounding the country's presidential election, in order to prevent any interference with the Iranian protestors' ability to communicate with each other and the outside world.
+
+US government's freedom agenda have also been occasionally undermined by its own tech companies that are eager to pursue profits in foreign markets
+- E.g. Narus (a company owned by Boeing) sold technology that was deployed by oppressive governments in the Middle East and North Africa against democracy activists.
+- E.g. Cisco Systems provided hardware that China uses to monitor and censor the internet
+- E.g. Facebook provided a platform for racist attacks and thus facilitating ethnic cleansing of the Rohingya minority in Myanmar. Rohingya is now suing Meta for over £130bn for its role in enabling genocide.
+- Bonus: Trump has also threatened to institute policies at home that resemble those deployed by authoritarian regimes. He suggested he had the power to shut down social media companies.
+
+The EU's response to US Big Tech's increase in power was to unleash a wave of regulation:
+- New laws on antitrust, data privacy, online copyright, AI, digital taxation, content moderation, platform work and more.
+
+Uncensored platforms did not simply produce freedom as the early American techno-optimist view had predicted. Instead, they also cultivated an online public square littered with hatred, violence and disinformation.
+
+
+### Chapter 8: Exporting China's Digital Authoritarianism
+China has spread its influence over the global digital economy primarily through its tech companies that build core digital infrastructure in different jurisdiction.
+- Hardware and Telecoms equipment (Huawei and ZTE)
+- Cloud Services, e-commerce platforms and social media platforms (Alibaba, Tencent, ByteDance)
+
+Digital Silk Road (DSR) is component of the Chinese government's Belt and Road Initiative (BRI), which is a global infrastructure-driven development strategy and a centerpiece of China's foreign policy.
+- Export-Import Bank of China financed 85% of the Pakistan-China Fiber Optic Project and gave Nigeria a loan for the 5G network that Huawei built in the country
+- In 2018, AZTE was reported to be installing mobile networks, and other digital infrastructure (data storage, analysis services, surveillance capabilities) to cities in Ethiopia, Nigeria and Sudan.
+- Huawei has installed telecom networks in about 40 African countries
+- Serbian government have cooperated closely to install thousands of smart surveillance cameras in the country
+- Many developing countries view Chinese infrastructure as the most affordable path toward digital development, which is key to their economic growth
+
+By exporting digital infrastructure, Chinese tech companies are also exporting Chinese technical and industrial standards, as those standards are embedded in the networks and equipments that rely on Chinese built technology.
+
+Interesting note on AI and computer vision
+- Access to Africa means having access to a population with different facial features -> important advantage in retraining its facial recognition algos to remove existing racial biases
