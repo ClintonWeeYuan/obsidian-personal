@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a341301ef6db9cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Knowledge/Books/Vulture Capitalism by Grace Blakeley.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e9c42a4f4ad00f64",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f82231de33d75ac3",
+  "active": "a341301ef6db9cdc",
   "lastOpenFiles": [
     "Notes/Knowledge/Books/SampleBook.md",
     "Notes/Knowledge/Books/Vulture Capitalism by Grace Blakeley.md",
