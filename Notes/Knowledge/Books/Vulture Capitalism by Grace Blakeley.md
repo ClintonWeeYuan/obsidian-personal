@@ -78,3 +78,74 @@ Amazon accounts for more than half of all computer and consumer electronics ecom
 - AWS is by far the most profitable part of the company, accounting for 75% of total operating profit
 - Rather than cornering one market, and using its power to hike prices, Amazon seeks constant expansion, using its market power to cut prices and operate at a loss to expand customer base.
 - Market power is precisely the power to avoid the pressures imposed by the market. It is the power to control the market, rather than being controlled by it.
+
+Amazon's Influence over politics:
+- In 2017 in Seattle, Amazon donated $345,000 to mayoral campaign of Jenny Durkan, whose opponent spoke out against Amazon's monopoly power
+- In 2013, Bezos bought the Washington post, appointed a new CEO, and changed the paper's business model. He has used this paper to push back against criticism over wages and working conditions
+
+Black Box Business
+- Schumpter argued that "creative destruction" limits the power of the boss over the worker. In his model, if a corporation didn't play the free-market game, over the long run it would die. 
+- In reality, big corporations don't die even when (as with Boeing or Ford) they make big mistakes. They can even use excess profits to erect barriers to entry, or simply buy up smaller competitors.
+- Even if they find themselves vulnerable during a crisis, powerful firms exploit their close relationship with states to secure bailouts
+
+Chemical Imbalances
+- 3 Companies control nearly 70% of the world's agrochemical industry and 60% of the world's commercial seeds, protected by strict intellectual property rules.
+- Union Carbide India Ltd was responsible for the Bhopal gas tragedy in India, a terrible industrial disaster.
+- Monsanto produces Roundup, which contains glyphosate, a chemical that WHO warned is linked to cancer.
+- Dupont knew about the harmful effects of Teflon, but continued to dump the toxic waste into local waterways.
+- Google, Amazon + Microsoft have bought 436 companies/startups between them in the past 10 years, and regulators have not challenged any of them
+
+
+### Chapter 5: Buying Time: How Big Banks Plan
+
+
+How Businesses Survive
+- Financial institutions lend to and invest in businesses, determining how fast certain companies grow, and which ones survive. 
+- The planning power of modern finance is not used in the public interest. Instead, it is used by a close network of corporate and financial executives to generate profits for themselves and shareholders.
+
+Wework
+- Adam Neuman, CEO of WeWork, committed several terrible financial decisions on behalf of the company for his own benefit:
+	- He bought several of the buildings WeWork was leasing, meaning company was paying him a significant rental incom.
+	- He also took out several personal loans from the company at low interest rates.
+	- He trademarked the word "we" and sold it to the company for $3.9 billion in stock options
+- After WeWork's poor financial accounting came to light, and their IPO failed, Neuman still walked away with $1.6 billion.
+- Masayoshi Son, CEO of SoftBank invested billions of dollars into the company, and used their clout to keep the company afloat. Had they not stepped in, the company would have failed faster (as the free market would have it)
+
+Madoff
+- In 2009, he was sentenced to 150 years in prison for operating the largest Ponzi schema in US history. He defrauded investors to the tune of $64.8 billion.
+- JPMorgan was Madoff's bank. Despite being aware of some incongruities in Madoff's financial arrangements, they didn't make the authorities aware of the potential fraud until the last possible moment.
+- Madoff himself stated in an interview from prison that JPMorgan knew about the fraud.
+- The bank paid $2.6 billion in fines and penalties, including forfeiting $1.7 billion
+
+Black Rock
+- World's largest asset manager, controls more than $10 trillion in assets. One of the Big Three asset managers -- BlackRock, Vanguard and State Street -- is the largest shareholder in around 88% of S&P500 companies.
+- Investors are supposed to pay attention to decisions made by a company's senior managers. Good managers are rewarded while bad ones are punished. However, BlackRock can't punish managers because it can't sell its shares. The firm's stakes in companies like Walmart and Amazon are too large to off-load, and in any case, BlackRock's market-tracking funds are always going to be heavily invested in the largest corporations. Almost regardless of how these firms perform, they can rely on the fact that BlackRock, Vanguard and State Street won't sell their shares.
+- President Biden brought several former BlackRock executives into his cabinet.
+- The Fed's interventions have also benefited BlackRock, e.g. by providing bailouts for corporations in which the company has substantial stakes.
+- Rather than efficient financial markets that allocate investment based on the best available information, a few giant unwieldy organisations that act as the "new permanent owners" of the world's largest corporations and the infrastructure upon which we all depend.
+- One paper shows that 3/4 of the world's 205 largest firms by sales are linked to a single global company network of concentrated ownership ties.
+
+### Chapter 6: Capital's Cronies: How States Plan
+
+Exxon:
+- In 2000, Exxon released an ad casting doubt on the impact of human activity on the climate (its profits were around $17.7 billion)
+- Since 1998, company spent $290 million lobbying the US government.
+- Between 1998 and 2014, the company spent around $30 million funding "shadow groups" that spread misinformation about climate breakdown.
+- Democratic Senator Joe Manchin blocks almost all progressive legislation, particularly on climate. His personal investments in fossil-fuel companies net him an income of 0.5 million dolalrs/year
+
+The Highway Code
+- Hayek uses the metaphor of the "Highway Code". The neoliberal state can lay down the rules of the road, but it cannot tell people where to go once it has done so. The most important aspect of the game is that prior to the playing of the game, outcomes are uncertain for everyone.
+- Problem with this code is that it does not tell us about what the state is, how it works, or who makes the rules.
+
+Double Standards
+- US policymakers have consistently failed to take action against mergers which would hurt competition and drive up prices. Milton Friedman even argued that antitrust laws tend to undermine competition.
+- When it came to labour market, more flexible nostrums were adopted. Breaking up unions on the basis that they promote anticompetitive practices in the labour market is Neoliberalism 101.
+- These different attitudes towards competition reflect the different balance of power within each society. US lawmakers, under the influence of powerful lobbyist, have given free rein to large multinational companies.
+
+Greensill
+- Company provides supply chain financing. They pay a company's outstanding invoices, and collect payment on those invoices plus interest from the company in the future. 
+- They borrowed a tonne of money from Credit Suisse. But when CS faced financial troubles during the pandemic, Greensill was in trouble as their line of credit was drying up. 
+- Masayoshi Son stepped in to inject $1.5 billion into CS, on the agreement that CS only lend to Greensill Capital. In return, Greensill lent generously to many of the firms SoftBank had a stake.
+- Greensill applied to the Bank of England's CCCF (emergency pandemic loan scheme through which the bank purchased the debt of several large corporations), but were rejected on the grounds that firms that lend out $ to other firms were ineligible. David Cameron texted then chancellor Rishi Sunak and several of his senior advisers, lobbying them to pressure the bank to change the rules governing the scheme.
+
+States do not simply shape the "rules of the game" for economic actors based on the neutral and objective advice of professional economists. State power is itself shaped by the influence of the parties to that game. This doesn't just mean that the rules are written to favour some over others, it means that states will very frequently intervene in that game in service of capital.
