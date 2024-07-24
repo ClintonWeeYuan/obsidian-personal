@@ -149,3 +149,53 @@ Greensill
 - Greensill applied to the Bank of England's CCCF (emergency pandemic loan scheme through which the bank purchased the debt of several large corporations), but were rejected on the grounds that firms that lend out $ to other firms were ineligible. David Cameron texted then chancellor Rishi Sunak and several of his senior advisers, lobbying them to pressure the bank to change the rules governing the scheme.
 
 States do not simply shape the "rules of the game" for economic actors based on the neutral and objective advice of professional economists. State power is itself shaped by the influence of the parties to that game. This doesn't just mean that the rules are written to favour some over others, it means that states will very frequently intervene in that game in service of capital.
+
+### Chapter 7: Money at Six Percent
+
+US anti-imperialism was self-interested. How could US corporations dominate the rest of the world if it were guarded by imperial powers?
+
+How the US controlled the Philippines
+- The Philippines had to be controlled without appearing to be dominated.
+- In 1916, Congress passed the Jones Act, promising the Philippines independence once the country achieved a "stable government". General Leonard Wood, former governor general of the Philippines said that this meant "money at 6%"
+- Even when the US decided to hand over power, it was to a government that allowed the US to establish military bases across the country.
+- The CIA effectively ran the country after independence, engineering election victories for pro-Washington candidates. The infamous crushing of the left-wing Hukbalahap Rebellion in 1954 was a major victory for the CIA. They even wrote the president's speeches and drugged his opponents.
+- They supported Ferdinand Marcos, who became president, and was dogged with accusations of corruption.
+- The US also used the World Bank and the IMF to exert control over the country. McNamara, head of the World Bank, was involved in sustaining a flow of aid to Marcos's brutal authoritarian regime with the aim of securing investment opportunities for international capital. Documents from the World Bank headquarters proved that the lending program was a result of close collaboration between US and the World Bank
+	- The same is true for other neo-colonial states (e.g. France and other African states). French politician Jacques Foccart kept letters requesting military intervention, presigned by various African presidents.
+
+Empire is MORE than formal colonization. It refers to all the processes through which the world's most powerful capitalist institutions plan who gets what at the level of the world economy.
+
+The desire to keep the world "open" to capital, rather than overaccumulation or a struggle for resources, is what explains so many of America's imperial escapades in recent decades.
+
+Why hasn't free trade benefited the poor world as much as its advocates believed it would?
+- Mainstream economic theory proposes that capitalists in rich countries will invest in poor ones as investment opportunities in their home markets dry up, thereby reducing inequality between nations.
+- However, powerful multinational corporations eventually dominated both the home market and large parts of the world market. These companies easily outcompete smaller ones operating in the global South, using their power over the market to price-gouge their suppliers, forcing smaller firms to cut costs by reducing wages and worsening working conditions.
+- These companies simply offshore production to poor countries, taking advantage of low labour costs and reshoring the profits back to their home nation.
+- The Nazi Party encouraged the creation of "trusts, combines and cartels" on the basis that doing so would support the German state's imperial power. Unions and other threats to corporate power were destroyed, and a law was passed to force industries to form cartels where none existed.
+- While claiming a grand civilizing mission to end poverty and promote development, rich countries have in fact underdeveloped the rest of the world to enrich themselves. Read "How Europe Underdeveloped Africa" by Walter Rodney
+
+How the US kept Guatemala from modernizing
+- The United Fruit Company was formed in 1899, becoming the world's largest exporter of bananas, and largest employer in Guatemala.
+- However, the land it owned had been expropriated from indigenous Maya population, who started organising strikes in protest.
+- UFC responded by supporting the candidacy of Jorge Ubico, who promised to clamp down on working-class and indigenous revolt. He won the presidency, and handed over tracts of land to the UFC, granted it tax exemptions and enabled the company's forced expulsions of indigenous people.
+- Years later, Jacobo Arbenz took the presidency, and reversed many of Jorge's unfair policies. However, President Eisenhower embarked on a plan to overthrow Arbenz, codenamed PBSuccess.
+	- The tactics used would be the same ones the CIA deployed to depose progressive leaders all over the world.
+	- They planted boxes of rifles marked with communist hammers and sickles as evidence of Arbenz's communist ties.
+	- They drew up lists of government ministers and bureaucrats who would be assassinated in the wake of the coup to terrify the opposition.
+	- They planned the coup to overthrow Arbenz, and portrayed it as the spontaneous reaction to Arbenz's reforms. They found Liutenant General Carlos Castillo Armas to front the operations, providing him with weapons and troops trained by the CIA.
+	- In June 1954, Armas and his CIA-trained men reached the Guatemalan border, and Arbenz released this news to the Guatemalan press. But the Americans started to broadcast false reports of an Armas victory on US controlled radio stations. Seems fake news was already in vogue back then.
+- Once Armas was declared President, the violence that he unleased (with the full support of the US) was unimaginable. Thousands of Arbenz's supporters were rounded up and executed. Forced labour was reinstated. 200,000 people were killed or displaced in the ensuing war between Armas and the indigenous people.
+
+US in Iraq
+- When the US took over Iraq, they immediately sold off state assets en masse. In doing so, the planners of the invasion sought to share its spoils with US businesses and to introduce the disciplining hand of American capital into Iraqi society.
+- They then introduced legislation which was a wish list that foreign investors dreamt of. This included capping the tax rate at 15%, and allowing investors to take unlimited sums of money out of the country.
+
+Ecuador vs Texaco
+- Texaco, a fuel company dumped billions of gallons of toxic waste and crude oil into Ecuador's Amazon rainforest, creating one of the greatest ecological disasters in modern history.
+- In 1993, 30000 Ecuadorians who had been affected by the disaster took action against Texaco. By the time the verdict was delivered, Texaco was owned by Chevron -> they were ordered to pay 10 billion in compensations.
+- Immediately after the verdict, the company left Ecuador, selling all its assets and threatening of lifetime of litigation if the government attempted to collect the money.
+- In 2009, Chevron launched an investor state dispute settlement claim (ISDS) against Ecuador in hopes to reverse the outcome of the case. Chevron won in 2018. The tribunal ordered Ecuador to prevent the courts from enforcing the earlier judgement. Ecuador had to also pay $800 million of the company's legal costs.
+- ISDS provisions are written into many international trade and investment treaties, providing protections for investors concerned about governments using their democratic prerogatives to tax, regulate, and prosecute corporations. Under ISDS provisions, investors can take governments to court for unpredictable changes in policy that run contrary to their interested.
+	- E.g. Phillip Morris, a global tobacco company launched an ISDS in a failed attempt to sue Australia after it introduced plain packaging on cigarettes.
+- ISDS are included in thousands of bilateral trade and investment treaties, creating a "parallel system of justice" that is heavily biased toward large corporations, and in which ordinary citizens foot the bill for lengthy legal battles.
+- 
